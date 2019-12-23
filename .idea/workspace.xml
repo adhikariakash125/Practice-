@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d613ea5-9755-440c-b200-98f198f72046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/IdenticalLLorNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LoopinLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/MergingTwoSortedLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/NthNodeFromLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveDuplicatesInUnsortedLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReverseALL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/BuildingMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/Deletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/HeapSortMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveLoopFromLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/RotateLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,20 +48,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoopinLL">
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopinLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LoopinLL" />
+  <component name="RunManager" selected="Application.Insertion">
+    <configuration name="BuildingMaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.BuildingMaxHeap" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthNodeFromLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.NthNodeFromLast" />
+    <configuration name="BuildingaHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.BuildingaHeap" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesInUnsortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.RemoveDuplicatesInUnsortedLL" />
+    <configuration name="HeapSortMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.HeapSortMax" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseALL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.ReverseALL" />
+    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.Insertion" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
+          <option name="PATTERN" value="Heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.KthLargest" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoopinLL" />
-        <item itemvalue="Application.ReverseALL" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.NthNodeFromLast" />
-        <item itemvalue="Application.RemoveDuplicatesInUnsortedLL" />
+        <item itemvalue="Application.Insertion" />
+        <item itemvalue="Application.KthLargest" />
+        <item itemvalue="Application.HeapSortMax" />
+        <item itemvalue="Application.BuildingMaxHeap" />
+        <item itemvalue="Application.BuildingaHeap" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +203,32 @@
           <line>28</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/RemoveLoopFromLL.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/RemoveLoopFromLL.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/Test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Heap/Insertion.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="n" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
