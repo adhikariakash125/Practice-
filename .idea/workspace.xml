@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d613ea5-9755-440c-b200-98f198f72046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Heap/BuildingMaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/Deletion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/HeapSortMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/RemoveLoopFromLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/RotateLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/KthLargestInStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/Ropes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/MergePointOfTwoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/SumOFMaxFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/kmpPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/positionOfSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/Insertion.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +49,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Insertion">
-    <configuration name="BuildingMaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.BuildingMaxHeap" />
+  <component name="RunManager" selected="Application.positionOfSubstring">
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.KMP" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuildingaHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.BuildingaHeap" />
+    <configuration name="MergePointOfTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.MergePointOfTwoList" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSortMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.HeapSortMax" />
+    <configuration name="SumOFMaxFreq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random.SumOFMaxFreq" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.Insertion" />
+    <configuration name="kmpPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.kmpPractice" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.KthLargest" />
+    <configuration name="positionOfSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.positionOfSubstring" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Insertion" />
-        <item itemvalue="Application.KthLargest" />
-        <item itemvalue="Application.HeapSortMax" />
-        <item itemvalue="Application.BuildingMaxHeap" />
-        <item itemvalue="Application.BuildingaHeap" />
+        <item itemvalue="Application.positionOfSubstring" />
+        <item itemvalue="Application.kmpPractice" />
+        <item itemvalue="Application.KMP" />
+        <item itemvalue="Application.MergePointOfTwoList" />
+        <item itemvalue="Application.SumOFMaxFreq" />
       </list>
     </recent_temporary>
   </component>
@@ -220,15 +221,20 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Heap/Insertion.java</url>
-          <line>35</line>
+          <line>34</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/kmpPractice.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/kmpPractice.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="n" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
