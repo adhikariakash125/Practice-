@@ -2,75 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e430218d-b06f-4c45-8bbf-51725fa3e1aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/KnightTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/NQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/NQueenPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/RatMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random/Knapsack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/QueueReconstructionByHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/TwoCityScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Knapsack0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/LongestRepeatingCharacterReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random/minimumSizeSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/isSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Array/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Array/ArrayRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Array/CommonElemetInTwoSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Array/CommonElemetInTwoSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Array/MostFrequentElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Array/MostFrequentElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Array/OneAwayStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Array/OneAwayStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Hashing/SeperateChaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Hashing/SeperateChaining.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/BuildingMaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/BuildingMaxHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/Deletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/Deletion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/HeapSortMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/HeapSortMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/Insertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/KthLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/KthLargest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/KthLargestInStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/KthLargestInStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Heap/Ropes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Heap/Ropes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/IdenticalLLorNot$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/IdenticalLLorNot$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/IdenticalLLorNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/IdenticalLLorNot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInDoublyLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInDoublyLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInDoublyLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInDoublyLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInTheMiddle$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInTheMiddle$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInTheMiddle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/InsertionInTheMiddle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/LengthOfLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/LengthOfLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/LengthOfLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/LengthOfLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/LoopinLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/LoopinLL$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/LoopinLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/LoopinLL.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergePointOfTwoList$SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergePointOfTwoList$SinglyLinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergePointOfTwoList$SinglyLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergePointOfTwoList$SinglyLinkedListNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergePointOfTwoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergePointOfTwoList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergingTwoSortedLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergingTwoSortedLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergingTwoSortedLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/MergingTwoSortedLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/NthNodeFromLast$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/NthNodeFromLast$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/NthNodeFromLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/NthNodeFromLast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicates$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicates$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicatesInUnsortedLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicatesInUnsortedLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicatesInUnsortedLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveDuplicatesInUnsortedLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveLoopFromLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveLoopFromLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveLoopFromLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RemoveLoopFromLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseALL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseALL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseALL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/ReverseALL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RotateLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RotateLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/LinkedList/RotateLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/LinkedList/RotateLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/META-INF/Practice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Matrix/MatrixMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Matrix/MatrixMultiplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Random/GFG$point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Random/GFG$point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Random/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Random/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Random/SumOFMaxFreq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Random/SumOFMaxFreq.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/Random/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Random/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Searching/countOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Searching/countOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Searching/findElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Searching/findElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Searching/majorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Searching/majorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Searching/squareRootInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Searching/squareRootInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Strings/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Strings/KMP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Strings/NonRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Strings/NonRepeatingCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Strings/kmpPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Strings/kmpPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Strings/positionOfSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Strings/positionOfSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Trees/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Trees/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Trees/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Trees/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Trees/PreOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Trees/PreOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/IdenticalLLorNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/IdenticalLLorNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LoopinLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LoopinLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/MergePointOfTwoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/MergePointOfTwoList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Random/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Random/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/twoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,23 +47,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="NQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.NQueen" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random.RandomizedSet" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
+          <option name="PATTERN" value="Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RoughTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RoughTest" />
-      <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,12 +87,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="final_prices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random.final_prices" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minimumSizeSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random.minimumSizeSubarray" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.NQueen" />
-        <item itemvalue="Application.RoughTest" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.minimumSizeSubarray" />
+        <item itemvalue="Application.final_prices" />
+        <item itemvalue="Application.RandomizedSet" />
       </list>
     </recent_temporary>
   </component>
@@ -167,49 +137,148 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="853" y="141" key="#xdebugger.evaluate" timestamp="1589738335181">
+    <state x="853" y="141" key="#xdebugger.evaluate" timestamp="1591432020393">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="853" y="141" key="#xdebugger.evaluate/0.27.1366.741@0.27.1366.741" timestamp="1589738335181" />
-    <state width="1320" height="219" key="GridCell.Tab.0.bottom" timestamp="1589739021693">
+    <state x="853" y="141" key="#xdebugger.evaluate/0.27.1366.741@0.27.1366.741" timestamp="1591432020393" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1593157834491">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589739021693" />
-    <state width="1320" height="219" key="GridCell.Tab.0.center" timestamp="1589739021692">
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593157834491" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center" timestamp="1593157834487">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589739021692" />
-    <state width="1320" height="219" key="GridCell.Tab.0.left" timestamp="1589739021691">
+    <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593157834487" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left" timestamp="1593157834487">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589739021691" />
-    <state width="1320" height="219" key="GridCell.Tab.0.right" timestamp="1589739021692">
+    <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593157834487" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right" timestamp="1593157834488">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589739021692" />
-    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1589739021694">
+    <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593157834488" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1593156191150">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589739021694" />
-    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1589739021694">
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593156191150" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1593156191149">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1589739021694" />
-    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1589739021693">
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1593156191149" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1593156191149">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1589739021693" />
-    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1589739021694">
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1593156191149" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1593156191149">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1589739021694" />
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1589960266366">
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1593156191149" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1593155936450">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1589960266366" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1589221455929">
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1593155936450" />
+    <state x="347" y="89" width="662" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591121326751">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1589221455929" />
+    <state x="347" y="89" width="662" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1591121326751" />
+    <state x="328" y="135" width="710" height="522" key="find.popup" timestamp="1593158419397">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="328" y="135" width="710" height="522" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1593158419397" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591947302201">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1591947302201" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/Test.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/QueueReconstructionByHeight.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/QueueReconstructionByHeight.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/PowerOfTwo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/Knapsack0_1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/Knapsack0_1.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/Knapsack0_1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/Knapsack0_1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/Knapsack0_1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/isSubsequence.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/isSubsequence.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/RandomizedSet.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/final_prices.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/minimumSizeSubarray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/Test.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Random/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

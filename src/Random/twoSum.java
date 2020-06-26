@@ -3,7 +3,7 @@ package Random;
 import java.util.*;
 import java.lang.*;
 
-class Solution {
+class Solutions {
 
     public static int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();

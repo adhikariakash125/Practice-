@@ -29,7 +29,7 @@ public class LoopinLL {
         Node slow = node;
         slow = slow.next;
         int counter = 1;
-        while (slow!=node){
+        while (slow != node) {
             counter++;
             slow = slow.next;
         }
@@ -37,11 +37,11 @@ public class LoopinLL {
     }
 
     private static int checkForLoop(LoopinLL ll) {
-        Node slow = ll.head,fast = ll.head;
-        while (fast!=null){
+        Node slow = ll.head, fast = ll.head;
+        while (fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
-            if (slow==fast)
+            if (slow == fast)
                 return lengthOfLoopinLL(slow);
         }
         return -1;

@@ -33,6 +33,7 @@ public class IdenticalLLorNot {
             duplicateLL = insertIntoLL(y,duplicateLL);
 
             System.out.println(isIdentical(m,ll,k,duplicateLL));
+            n--;
         }
     }
 

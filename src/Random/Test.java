@@ -1,34 +1,69 @@
 package Random;
 
-import java.io.*;
+import java.util.*;
 
-public class Test {
+class Test {
+    public static int removeDuplicates(int[] nums) {
+        int n = nums.length;
+        int j = 0;
+        Set<Integer> set = new HashSet<>();
+        set.add(1);
+        List<Integer> list = new ArrayList<>();
+        for (Integer x : nums)
+            list.add(x);
+        for (Integer x : nums)
+            if (!list.contains(x))
+                nums[j++] = x;
+        return j;
+    }
 
-    static void printPowerSet(char[] set, int set_size) {
-          
-        /*set_size of power set of a set 
-        with set_size n is (2**n -1)*/
-        long pow_set_size = (long) Math.pow(2, set_size);
-        int counter, j; 
-      
-        /*Run from counter 000..0 to 
-        111..1*/
-        for (counter = 0; counter < pow_set_size; counter++) {
-            for (j = 0; j < set_size; j++) {
-                /* Check if jth bit in the  
-                counter is set If set then  
-                print jth element from set */
-                if ((counter & (1 << j)) > 0)
-                    System.out.print(set[j]);
+    public static boolean exist(char[][] board, String word) {
+        int n = board.length;
+        char[] wordarr = word.toCharArray();
+        int[] arr = new int[26];
+        int[] arrw = new int[26];
+        for (char[] x : board) {
+            for (char y : x) {
+                arr[y - 'A']+=1;
             }
-
-            System.out.println();
         }
+
+        for (int i = 0; i < wordarr.length; i++)
+            arrw[wordarr[i] - 'A']+=1;
+
+        System.out.println(Arrays.toString(arr));
+
+        System.out.println(Arrays.toString(arrw));
+
+        for (int i = 0; i < 26; i++)
+            if (!(arr[i] >= arrw[i]))
+                return false;
+        return true;
     }
 
-    // Driver program to test printPowerSet 
+
     public static void main(String[] args) {
-        char[] set = {'a', 'b', 'c'};
-        printPowerSet(set, 3);
+//        System.out.println(exist(new char[][]{
+//                {'A', 'B', 'C', 'E'},
+//                {'S', 'F', 'C', 'S'},
+//                {'A', 'D', 'E', 'E'}
+//        }, "SEE"));
+
+//        System.out.println(test("ABC", "BCA"));
+        System.out.println(charAt(0));
     }
-} 
+
+    private static char charAt(int i) {
+        Map<Integer,Integer> map = new HashMap<>();
+        return (char) (i+97);
+    }
+
+    private static boolean test(String s1, String s2) {
+        char[] a = s1.toCharArray();
+        char[] b = s2.toCharArray();
+        Arrays.sort(a);
+        Arrays.sort(b);
+        if(Arrays.toString(a).equals(Arrays.toString(b)))
+            return true;
+        return false;    }
+}
